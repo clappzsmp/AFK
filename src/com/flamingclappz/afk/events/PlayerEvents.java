@@ -1,4 +1,4 @@
-package net.pgfmc.afk.events;
+package com.flamingclappz.afk.events;
 
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Monster;
